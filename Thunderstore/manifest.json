@@ -1,7 +1,7 @@
 ﻿{
 	"name": "RenewableTrial",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/Slendykray/RenewableTrial",
 	"description": "adds time to nkhuana trial when earning karma",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
